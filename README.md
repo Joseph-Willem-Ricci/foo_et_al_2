@@ -43,6 +43,28 @@ To install the Foo (Et Al)^2 software package, run the following command in your
 
 You can view the project on the Python Package Index at https://pypi.org/project/foo-et-al-2/
 
+# Usage Examples
+Once installed, methods from the package can be used, as seen in the following examples:
+
+```py
+from foo_et_al.foo_et_al import foo_et_al_param
+bar = 1
+baz = foo_et_al_param(bar)
+```
+
+```py
+from et_al._example_contribution.is_palindrome import is_palindrome
+print(is_palindrome("racecar"))
+print(is_palindrome("UCAR"))
+```
+
+Expected output:
+```
+True
+False
+```
+
+
 # Discussion Forum
 Please join the Foo (Et Al)^2 community in the [discussion forum](https://groups.google.com/g/foo_et_al_2).
 
