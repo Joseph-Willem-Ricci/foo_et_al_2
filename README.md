@@ -1,7 +1,7 @@
-# FOO (ET AL)$^2$
+# FOO (ET AL)^2
 ## UCAR Science Feature Toolkit
 
-Foo (Et Al)$^2$ is a package for calculating the complex Foo et al. parameterization, proposed in 2024 by UCAR researchers Foo, Bar and Baz. In the spirit of open science and scientific progress, we extend an open invitation to contribute new science features alongside the Foo et al. parameterization, making this package Foo et al., et al.; Foo (Et Al)$^2$
+Foo (Et Al)^2 is a package for calculating the complex Foo et al. parameterization, proposed in 2024 by UCAR researchers Foo, Bar and Baz. In the spirit of open science and scientific progress, we extend an open invitation to contribute new science features alongside the Foo et al. parameterization, making this package Foo et al., et al.; Foo (Et Al)^2
 
 # Contribution Guidelines
 
@@ -39,7 +39,7 @@ See "Merge Pull Request #1" in GitHub for an example of a successful feature cha
 # Installation Instructions
 
 
-# Citing FOO (ET AL)$^2$
+# Citing FOO (ET AL)^2
 
 If you use this software, please cite it as
 
