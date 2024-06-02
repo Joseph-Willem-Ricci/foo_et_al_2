@@ -12,7 +12,7 @@ Foo (Et Al)^2 is a package for calculating the complex Foo et al. parameterizati
 `foo_et_al_2/et_al` is the directory for new science feature contributions.
 
 ## Code Style
-
+For ease of communication and maintenence, please conform to the PEP 8 Style Guide.
 
 ## General Contribution Version Control Guidelines
 1. Create and checkout a new working branch from `main` in the GitHub repository
@@ -34,7 +34,7 @@ See "Merge Pull Request #1" in GitHub for an example of a successful feature cha
 
 
 # Documentation
-
+Read the documentation [here](docs/index.md)
 
 # Installation Instructions
 
