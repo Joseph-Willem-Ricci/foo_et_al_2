@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='foo_et_al_2',
-    version='0.1',
+    version='0.2',
     author='Joseph Willem Ricci',
     author_email='josephwillemricci@gmail.com',
     description='A python package for the Foo et al. parameterization, et al.',

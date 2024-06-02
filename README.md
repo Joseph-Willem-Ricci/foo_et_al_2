@@ -34,10 +34,20 @@ See "Merge Pull Request #1" in GitHub for an example of a successful feature cha
 
 
 # Documentation
-Read the documentation [here](docs/index.md)
+Read the documentation [here](docs/index.md).
 
 # Installation Instructions
+To install the Foo (Et Al)^2 software package, run the following command in your terminal:
 
+`pip install foo-et-al-2`
+
+You can view the project on the Python Package Index at https://pypi.org/project/foo-et-al-2/
+
+# Discussion Forum
+Please join the Foo (Et Al)^2 community in the [discussion forum](https://groups.google.com/g/foo_et_al_2).
+
+# GitHub
+The GitHub repository is [avaialble here](https://github.com/Joseph-Willem-Ricci/foo_et_al_2)
 
 # Citing FOO (ET AL)^2
 
