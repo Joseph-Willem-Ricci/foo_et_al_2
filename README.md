@@ -18,8 +18,9 @@ For ease of communication and maintenence, please conform to the PEP 8 Style Gui
 1. Create and checkout a new working branch from `main` in the GitHub repository
 2. Contribute new features or suggest changes to existing features
 3. In your terminal, run `python tests/run_tests.py` to test your contribution along with pre-existing tests
-4. Commit your changes to the new branch
-5. Open a pull request with a description of the change, and request review from a core contributor
+4. Add or edit documentation in docs/api.md if necessary
+5. Commit your changes to the new branch
+6. Open a pull request with a description of the change, and request review from a core contributor
 
 ### If Contributing New Science Features
 1. Create a new package in `foo_et_al_2/et_al` with a descriptive name, say `/_example_contribution`
