@@ -40,7 +40,7 @@ jobs:
       - name: Build wheel
         run: python -m build --wheel
       - name: Deploy to PyPI
-        run: python -m twine upload dist/*
+        run: python -m twine upload --verbose dist/*
         env:
           TWINE_USERNAME: __token__
           TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
