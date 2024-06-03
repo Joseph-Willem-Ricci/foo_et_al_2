@@ -1,3 +1,9 @@
+[![PyPI - Version](https://img.shields.io/pypi/v/foo_et_al_2)](https://pypi.org/project/foo-et-al-2/)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Joseph-Willem-Ricci/foo_et_al_2)
+![GitHub top language](https://img.shields.io/github/languages/top/Joseph-Willem-Ricci/foo_et_al_2)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Joseph-Willem-Ricci/foo_et_al_2/.github%2Fworkflows%2Fci.yml)
+
+
 # FOO (ET AL)^2
 ## UCAR Science Feature Toolkit
 
@@ -15,12 +21,12 @@ Foo (Et Al)^2 is a package for calculating the complex Foo et al. parameterizati
 For ease of communication and maintenence, please conform to the PEP 8 Style Guide.
 
 ## General Contribution Version Control Guidelines
-1. Create and checkout a new working branch from `main` in the GitHub repository
+1. Create and checkout a new working branch from `dev` in the GitHub repository
 2. Contribute new features or suggest changes to existing features
 3. In your terminal, run `python tests/run_tests.py` to test your contribution along with pre-existing tests
 4. Add or edit documentation in docs/api.md if necessary
 5. Commit your changes to the new branch
-6. Open a pull request with a description of the change, and request review from a core contributor
+6. Open a pull request, merging into `dev` with a description of the change, and request review from a maintainer
 
 ### If Contributing New Science Features
 1. Create a new package in `foo_et_al_2/et_al` with a descriptive name, say `/_example_contribution`
