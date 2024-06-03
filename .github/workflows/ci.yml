@@ -22,7 +22,6 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
-    environment: deployment_secrets
     needs: build
     if: github.ref == 'refs/heads/main'
     steps:
